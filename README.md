@@ -183,17 +183,16 @@ This documentation helps:
 # 📸 Dashboard Preview
 
 ## Executive Summary Dashboard
-(Add Screenshot Here)
+<img width="782" height="625" alt="image" src="https://github.com/user-attachments/assets/b0a73b3d-3712-41f9-9e97-f5cb9ebb0d5d" />
 
 ## Product Analysis Dashboard
-(Add Screenshot Here)
+<img width="937" height="604" alt="image" src="https://github.com/user-attachments/assets/1ff5f4da-b7f4-4700-8fe3-3395537a43bb" />
 
 ## Customer Analysis Dashboard
-(Add Screenshot Here)
+<img width="933" height="601" alt="image" src="https://github.com/user-attachments/assets/b23e867e-0458-49de-a91e-e82d24c98f01" />
 
 ## Shipping & Operations Dashboard
-(Add Screenshot Here)
-
+<img width="934" height="598" alt="image" src="https://github.com/user-attachments/assets/cc688af0-a6ee-40a0-9868-c9ebc0c0bb27" />
 ---
 
 # 🖥️ Dashboard Features
